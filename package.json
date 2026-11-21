@@ -1,0 +1,14 @@
+{
+  "name": "joke-reviewer-01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A deterministic one-line joke about working beside AI coding agents.",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
